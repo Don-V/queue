@@ -1,6 +1,2 @@
 #Priority Queue
-##This is a linked-list implementation of a priority queue in C/C++
-
-###How to Use:
-
-
+##This is a linked-list implementation of a priority queue in C
